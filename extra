@@ -1,0 +1,48 @@
+<header>
+        <div class="offer p-2"  >
+            <p align="center">
+                Choose the ultimate upgrade with <span>Ultima Connect Max </span>Adopt seamless <span>BT calling at ₹2199</span>, Show now!
+            </p>
+        </div>
+        <nav class="d-flex p-3 p-md-4 align-items-center justify-content-xl-between">
+            <div class="header-menu d-xl-none">
+                <i class="fa-solid fa-bars fs-5"></i>
+            </div>  
+            <div class="header-boat-logo flex-grow-1">
+                <img  src="./assets/boAt_logo_small.svg" alt="boat-logo">
+            </div>
+            <div class="nav-buttons ">
+                <ul class="d-none d-xl-flex text-secondary  ">
+                    <li>
+                        <div> 
+                            <a href="#">
+                                Categories <i class="fa-solid fa-chevron-down"></i></div>
+                            </a>
+                    </li>
+                    <li>
+                        <div>
+                            <a href="#daily-deals"> Daily Deals</a> 
+                    </li>
+                    <li>
+                        <div>
+                            <a href="#best-of-boat" >Gift With boAt </a>
+                        </div>    
+                    </li>
+                    <li><div>
+                        <a href="#">
+                            More<i class="fa-solid fa-chevron-down"></i>
+                        </a> 
+                    </li>
+                </ul>
+            </div>
+            <div class="right-section  d-flex justify-content-end    ">
+                <div>
+                    <button id="searchBtn"  class="fa-solid fa-magnifying-glass fs-5 cursor-pointer d-flex align-items-center">
+                        <input type="text" class="d-none d-xl-inline ms-3" placeholder="search">
+                    </button>
+                </div>
+                <button id="accountBtn" class="fa-solid fa-user ms-4 fs-5 cursor-pointer"></button>
+                <button id="cartBtn" class="fa-solid fa-bag-shopping ms-4 fs-5 cursor-pointer"></button>
+            </div>
+        </nav>
+    </header>

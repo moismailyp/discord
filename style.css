@@ -1,0 +1,58 @@
+
+.header
+{
+    background-color: #8A7350;
+    display: flex;
+}
+.header1
+{
+    justify-content:center ;
+    align-items:center;
+}
+.button
+{
+
+    width:140px;
+    height: 40px;
+    margin-left: 20rem;
+    align-items: center;
+}
+.logo
+{
+    margin-left: 3rem;
+}
+.icon1
+{
+    margin-left: 3rem;
+}
+.nav
+{
+    margin-bottom: 4rem;
+}
+
+.img
+{
+    color: white;
+    margin-right: 3rem;
+}
+.link a:hover
+{
+    text-decoration: underline;
+}
+.menu-item
+{
+    margin-left: 4rem;
+}
+.login
+{
+margin-left:3px ;
+padding-left: 3rem;
+}
+.text
+{
+    font-size: large;
+}
+.footer p:hover
+{
+text-decoration: underline;
+}
